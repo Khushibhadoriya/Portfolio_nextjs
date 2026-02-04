@@ -1,3 +1,5 @@
+import Link from "next/link"
+
 export default function Hero(){
     return (
        <section className="min-h-screen flex flex-col items-center justify-center text-center px-6">
@@ -14,10 +16,11 @@ export default function Hero(){
         <button className="px-6 py-3 bg-black text-white rounded-lg hover:opacity-80 transition">
           View Projects
         </button>
-
+        <Link href="#contact">
         <button className="px-6 py-3 bg-black text-white rounded-lg hover:opacity-80 transition">
           Contact Me
         </button>
+        </Link>
       </div>
        </section>
     );
