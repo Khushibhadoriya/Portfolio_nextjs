@@ -22,10 +22,8 @@ export default function About() {
         <div>
           <h2 className="text-3xl font-bold mb-4">About Me</h2>
           <p className="text-gray-600 leading-relaxed">
-            I am a final-year engineering student and aspiring software engineer
-            with strong interest in  full-stack systems,
-            and modern web technologies. I enjoy building scalable and
-            production-ready web applications using Next.js and React.
+           Motivated and detail-oriented Software Developer with hands-on experience building responsive and scalable web application using React.js, Next.js, Node.js, Express.js, and MongoDB. Strong foundaJon in Data Structures, Algorithms, Object-Oriented Programming, REST APIs, and full-stack development. Passionate about solving real-world problems through clean
+code, eﬃcient system design, and modern technologies.
           </p>
         </div>
 

@@ -39,11 +39,12 @@ export default async function ProjectDetails({params}){
                 <a href={project.github} target="_blank" className="underline">
                     Github
                 </a>
-                {/* <a href={project.live}
+                
+                <a href={project.live}
           target="_blank"
           className="underline">
                     Live Demo
-                </a> */}
+                </a>
                </div>
         </section>
     )

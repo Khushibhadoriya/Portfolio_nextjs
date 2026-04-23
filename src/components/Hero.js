@@ -21,7 +21,7 @@ export default function Hero(){
           Visit Github
         </a>
         {/* </Link> */}
-        <a href="/resume.pdf" download>
+        <a href="/Khushi_Resume.pdf" download>
                     <button className="px-6 py-3 bg-amber-500 text-white rounded-lg hover:scale-90 hover:opacity-80  transition-transform">Download Resume</button>
                  </a>
       </div>
