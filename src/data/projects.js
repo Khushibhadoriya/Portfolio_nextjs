@@ -8,7 +8,7 @@ export const projects=[
     live: "https://service-tracker-neon.vercel.app/",
     },
     {
-      title: "Real-Time Chat Applica4on ",
+      title: "Real-Time Chat Application ",
     slug: "realtime-chat-app",
     description: "Built a real-time messaging platform using Socket.io for instant bidirectional communication supporting concurrent users.",
     tech: ["React(Vite)","Node.js","MongoDB", "Socket.ion"],
