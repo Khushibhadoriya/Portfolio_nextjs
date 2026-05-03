@@ -13,7 +13,7 @@ export const projects=[
     description: "Built a real-time messaging platform using Socket.io for instant bidirectional communication supporting concurrent users.",
     tech: ["React(Vite)","Node.js","MongoDB", "Socket.ion"],
     github: "https://github.com/Khushibhadoriya/real-time-chat-app",
-    // live:""
+    live:"https://real-time-chat-app-blond-three.vercel.app/"
     },
     {
         title: "Weather App",
